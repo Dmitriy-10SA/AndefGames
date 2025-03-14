@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AndefGames</string>
+    <string name="find_the_word">Найди слово</string>
+    <string name="hello_choose_game">Привет! Выбирай игру!</string>
 </resources>
